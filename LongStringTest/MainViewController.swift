@@ -6,6 +6,15 @@
 //  Copyright © 2018 Donald Belliveau. All rights reserved.
 //
 
+/*
+
+ JF,
+ 
+ I've got a Table View that should display the text from testOne.rft. But I haven't been able to get it to do that so far.
+So far the closest I've come is for my string to read the name of the text file testOne.rtf.
+
+ */
+
 import UIKit
 
 let test1 = "testOne.rtf"
